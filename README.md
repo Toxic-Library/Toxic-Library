@@ -4,6 +4,8 @@
 
 ### programming languages and other things i know:
 <p align="left">
+[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/850258872613470208.png)](https://discord.gg/gZ82AXwmft) <== Click to join their Discord Server<br><br>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="30">

@@ -4,7 +4,6 @@
 
 ### programming languages and other things i know:
 <p align="left">
-<img src="https://discordapp.com/api/guilds/532970094477836298/widget.png?style=banner4" alt="Discord Banner 4"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="30">
@@ -30,7 +29,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" width="30">
 </p>
-
+### our server
+<img src="https://discordapp.com/api/guilds/532970094477836298/widget.png?style=banner4" alt="Discord Banner 4"/>
 ### Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=REVENGE977&theme=gruvbox)
 

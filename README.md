@@ -1,15 +1,10 @@
-<h1 align="center">Hello there 😄</h1>
+<h1 align="center">Toxic Library > Toxic Codes</h1>
 <br>
 <p align="center"><b>All Projects Are Only For Educational Purposes</b></p>
 
 ### programming languages and other things i know:
 <p align="left">
-
-![](https://komarev.com/ghpvc/?username=n3k4a&color=blue)
-<br>
-[![DiscordProfileBanner](https://discord.c99.nl/widget/theme-2/850258872613470208.png)](https://discord.gg/gZ82AXwmft) <== Click to join their Discord Server<br><br>
-<details style='text-align: center;' align='center'>
-
+<img src="https://discordapp.com/api/guilds/532970094477836298/widget.png?style=banner4" alt="Discord Banner 4"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="30">
 <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" width="30">

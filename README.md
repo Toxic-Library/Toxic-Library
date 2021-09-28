@@ -34,7 +34,7 @@
 <img src="https://discordapp.com/api/guilds/532970094477836298/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 ### Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=Toxic-Librar&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=Toxic-Library&theme=gruvbox)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Toxic-Library&show_icons=true&theme=radical) 
 

@@ -35,18 +35,30 @@
 
 <img src="https://discordapp.com/api/guilds/532970094477836298/widget.png?style=banner4" alt="Discord Banner 4"/>
 </a>
+
 <br />
 <br />
+
 </a>
+
 ### Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=REVENGE977&theme=gruvbox)
 </a>
 
+<br />
+<br />
 
-![stats](https://github-readme-stats.vercel.app/api?username=Toxic-Library&show_icons=true&theme=radical) 
 </a>
 
+![stats](https://github-readme-stats.vercel.app/api?username=Toxic-Library&show_icons=true&theme=radical) 
+
+</a>
+
+<br />
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxic-Library&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 </a>
 
 <br />
